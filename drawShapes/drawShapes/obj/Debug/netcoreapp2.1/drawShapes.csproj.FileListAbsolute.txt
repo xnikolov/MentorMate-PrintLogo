@@ -1,0 +1,11 @@
+C:\Users\Християн\source\repos\drawShapes\drawShapes\bin\Debug\netcoreapp2.1\drawShapes.deps.json
+C:\Users\Християн\source\repos\drawShapes\drawShapes\bin\Debug\netcoreapp2.1\drawShapes.runtimeconfig.json
+C:\Users\Християн\source\repos\drawShapes\drawShapes\bin\Debug\netcoreapp2.1\drawShapes.runtimeconfig.dev.json
+C:\Users\Християн\source\repos\drawShapes\drawShapes\bin\Debug\netcoreapp2.1\drawShapes.dll
+C:\Users\Християн\source\repos\drawShapes\drawShapes\bin\Debug\netcoreapp2.1\drawShapes.pdb
+C:\Users\Християн\source\repos\drawShapes\drawShapes\obj\Debug\netcoreapp2.1\drawShapes.csprojAssemblyReference.cache
+C:\Users\Християн\source\repos\drawShapes\drawShapes\obj\Debug\netcoreapp2.1\drawShapes.csproj.CoreCompileInputs.cache
+C:\Users\Християн\source\repos\drawShapes\drawShapes\obj\Debug\netcoreapp2.1\drawShapes.AssemblyInfoInputs.cache
+C:\Users\Християн\source\repos\drawShapes\drawShapes\obj\Debug\netcoreapp2.1\drawShapes.AssemblyInfo.cs
+C:\Users\Християн\source\repos\drawShapes\drawShapes\obj\Debug\netcoreapp2.1\drawShapes.dll
+C:\Users\Християн\source\repos\drawShapes\drawShapes\obj\Debug\netcoreapp2.1\drawShapes.pdb
